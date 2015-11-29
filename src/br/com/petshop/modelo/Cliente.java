@@ -7,10 +7,11 @@ package br.com.petshop.modelo;
  * 
  * version 1.0
  *  
- * */
+ * */ 
 public class Cliente {
 	int idCliente;
 	String nome;
 	String cpf;
+	String CPF;
 	
 }
