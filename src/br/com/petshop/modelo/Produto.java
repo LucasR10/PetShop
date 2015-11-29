@@ -2,7 +2,7 @@ package br.com.petshop.modelo;
 
 
 /**
- * @author Ronaldo
+ * @author Ronaldo   
  *  
  * @since 29/11/205
  * 
@@ -16,4 +16,5 @@ public class Produto {
 	int idProduto;
     String nome;
     String descricao;
+    double valor;
 }
