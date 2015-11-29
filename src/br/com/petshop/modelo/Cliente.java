@@ -12,6 +12,10 @@ public class Cliente {
 	int idCliente;
 	String nome;
 	String cpf;
-	String CPF;
+	String endereço;
+	String telefone;
+	String email;
+	String serviço;
+	
 	
 }
